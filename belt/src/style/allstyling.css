@@ -1,0 +1,19 @@
+.top{
+    color:black;
+    background-color: #783f04;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.containers{
+   background-color: #ff9900;
+   display: flex;
+   flex-direction: column;
+   height: 1000px;
+}
+
+.flexing{
+    display: flex;
+}
